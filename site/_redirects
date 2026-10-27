@@ -1,0 +1,7 @@
+# Old URLs (without trailing slash) and dead links from the previous site
+/about     /about/     301
+/contact   /contact/   301
+/privacy   /privacy/   301
+/solutions /           301
+/pricing   /#pricing   301
+/faq       /#faq       301
